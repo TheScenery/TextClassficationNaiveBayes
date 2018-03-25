@@ -1,3 +1,5 @@
+A simple homeWork for NPL class based on [NaiveBayesSpamFilter](https://github.com/SunnyMarkLiu/NaiveBayesSpamFilter)
+
 # Getting Strattrd
 1. `pip install -r requirements`
 2. run `train.py` train the data, use `python train.py`
